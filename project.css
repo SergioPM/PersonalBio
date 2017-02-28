@@ -1,0 +1,25 @@
+body {
+  background-color: lightgrey;
+  color: black
+}
+div.nav {
+  background-color: lightgray;
+  border-style: solid;
+}
+
+a.navigation {
+  text-decoration: none;
+  color: darkred;
+}
+div.nav:hover {
+  background-color: gray
+}
+li a.pop:link {
+  color: darkred
+}
+a.pop {
+  color: darkred;
+}
+a.pop:hover {
+  color: black;
+}
